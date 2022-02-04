@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-JengaMasterG Github Training!
+**JengaMasterG: Being or not Being, that's a question.**
 Use the right arrow to begin!
